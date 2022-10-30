@@ -1,0 +1,62 @@
+#firstsection {
+    // background-image: url(https://cdn.shopify.com/s/files/1/2123/8949/files/HERIA_CALISTHENICS_TRAINING_EQUIPMENT_WEIGHT_VEST_1296x.jpg?v=1663794797);
+    text-align: center;
+}
+
+#firstsection #navbar {
+    display: flex;
+}
+
+#firstsection #weightvest {
+    text-align: center;
+}
+
+#firstsection #navbarcontent {
+    height: 24px;
+    display: flex;
+    align-items: center;
+}
+
+#firstsection #productsnum1 #products1 {
+    width: 10px;
+    height: auto;
+    display: flex;
+}
+
+#firstsection #productsnum1 #products2 {
+    width: 10px;
+    height: auto;
+    display: flex;
+}
+
+#secondsection {
+    text-align: center;
+}
+
+#thirdsection #categories {
+    display: flex;
+}
+
+#thirdsection #productsnum2 #products3 {
+    width: 10px;
+    height: auto;
+    display: flex;
+}
+
+#thirdsection #productsnum2 #products4 {
+    width: 10px;
+    height: auto;
+    display: flex;
+}
+
+#thirdsection {
+    text-align: center;
+}
+#fourthsection #joinoursmsclub {
+    background-image: url(https://cdn.shopify.com/s/files/1/2123/8949/files/HERIA_CALISTHENICS_SMS2_00fbd262-24b6-4531-b93a-a38b71d1a904_2048x.jpg?v=1663806951) ;
+    height: 809px;
+    width: 2049px;
+}
+#fourthsection #contacts #form {
+    text-align: center;
+}
