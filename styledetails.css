@@ -1,0 +1,145 @@
+#firstsection #navbar{
+   text-align: center;
+}
+*{
+   font-family: Arial, Helvetica, sans-serif;
+}
+#firstsection #navbar #logo #logobtn{
+}
+#firstsection #navbar {
+   display: flex;
+   gap: 200px;
+}
+
+#firstsection #navbar #navbarcontent {
+    margin-top: 25px;
+}
+
+#firstsection #navbar #navbarcontent #navbaricon {
+   
+}
+
+
+
+#firstsection #navbar #navbarcontent {
+   height: 24px;
+   display: flex;
+   align-items: center;
+}
+
+#firstsection #navbar #navbarcontent #shop {
+   hover:
+}
+
+#navbarcontent button {
+   color: rgb(0, 0, 0);
+   padding: 16px;
+   font-size: 16px;
+   border: none;
+   cursor: pointer;
+}
+
+#shopdropdown {
+   position: relative;
+   display: inline-block;
+}
+
+#shopdropdowns {
+   display: none;
+   position: absolute;
+   background-color: #ffffff;
+   min-width: 160px;
+   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+   z-index: 1;
+}
+
+#shopdropdowns a {
+   color: black;
+   padding: 12px 16px;
+   text-decoration: none;
+   display: block;
+}
+
+#shopdropdowns a:hover {
+   background-color: #ffffff
+}
+
+#shopdropdown:hover #shopdropdowns {
+   display: block;
+}
+
+#shopdropdown:hover #shopdropdownbtn {
+}
+
+#moredropdown {
+   position: relative;
+   display: inline-block;
+}
+
+#moredropdowns {
+   display: none;
+   position: absolute;
+   background-color: #ffffff;
+   min-width: 160px;
+   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+   z-index: 1;
+}
+
+#moredropdowns a {
+   color: black;
+   padding: 12px 16px;
+   text-decoration: none;
+   display: block;
+}
+
+#moredropdowns a:hover {
+   background-color: #ffffff
+}
+
+#moredropdown:hover #moredropdowns {
+   display: block;
+}
+
+#moredropdown:hover #moredropdownbtn {
+}
+
+#details {
+    text-align: left;
+    width: 1400px;
+    height: auto;
+    display: flex;
+    font-family: ;
+}
+#details #mainimg {
+    width: 1500 px;
+}
+
+#details #atc {
+    text-align: center;
+    margin-left: 400px;
+}
+#details #descriptions #socialmediaicon {
+   word-spacing: 10px;
+}
+#therest #combo {
+   display: flex;
+   align-items: center;
+}
+#therest #combo a {
+   font-family: "Avenir Next", sans-serif;
+    text-decoration:  rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background:rgb(0, 0, 0);
+    padding: 15px 22px;
+    display: inline-block;
+}
+#therest #combo #combo2 {
+   margin-left: 50px;
+}
+#therest #suggestions {
+   text-align: center;
+}
+#therest #suggestions #suggestedproducts {
+   display: flex;
+   max-height: ;
+}
